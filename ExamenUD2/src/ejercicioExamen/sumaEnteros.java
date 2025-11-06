@@ -17,4 +17,4 @@ public class sumaEnteros {
 			return suma;
 		}
 	}
-//no encuentro el error
+//no encuentro el error 
